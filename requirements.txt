@@ -9,3 +9,7 @@ faiss_cpu
 chainlit
 huggingface_hub
 langchain_community
+Flask==2.3.3
+Flask-CORS==3.0.10
+google-generativeai==0.1.0
+Markdown==3.4.4
